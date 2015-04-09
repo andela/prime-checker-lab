@@ -1,6 +1,6 @@
 #Prime Checker Lab
 
-This is a lab to check it a number is a prime number
+This is a lab to check if a number is a prime number
 
 
 ## How to Run this Lab
